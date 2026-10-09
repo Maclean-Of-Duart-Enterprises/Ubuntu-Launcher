@@ -1,55 +1,66 @@
 # Ubuntu-Launcher
 Ubuntu style android launcher with dumb phone mode
 # Ubuntu Launcher for Android
-### Version 1.0.3.001
+### Version 1.0.4
 
-**An Ubuntu-inspired desktop and smartphone launcher for Android.**
+**An Ubuntu-inspired desktop experience for Android smartphones.**
 
-Developed by **Maclean Of Duart Enterprises Corp**
+**Developed by Maclean Of Duart Enterprises Corp**  
+**Licensed under GNU AGPLv3**
 
-Ubuntu Launcher is a customizable, open-source Android HOME launcher designed to bring the appearance, functionality, and navigation style of Ubuntu Linux to Android smartphones.
+Ubuntu Launcher is a customizable, open-source Android HOME launcher designed to bring the appearance and functionality of an Ubuntu Linux desktop to Android smartphones.
 
-The application combines a traditional smartphone interface with a desktop-inspired environment, automatically adapting its layout when switching between portrait and landscape orientations.
+The launcher combines traditional smartphone functionality with desktop-style navigation, file and website shortcuts, customizable application management, and an optional simplified Dumb Phone Mode.
 
-Ubuntu Launcher also includes Dumb Phone Mode, allowing users to simplify their devices without sacrificing customization or the familiar Ubuntu appearance.
+Ubuntu Launcher automatically adapts between portrait and landscape orientations, allowing users to configure each layout independently.
+
+Unlike a simple Ubuntu-themed application drawer, Ubuntu Launcher is designed to function as the device's default HOME environment.
 
 ---
 
 ## Features
 
-### Ubuntu-Inspired Desktop
+### 1. Ubuntu-Inspired Desktop
 
-- Ubuntu-inspired aubergine and orange interface.
-- Automatic portrait and landscape orientation support.
-- Desktop-style interface optimized for landscape orientation.
-- Customizable taskbar and desktop shortcuts.
+Ubuntu Launcher provides an Ubuntu-inspired interface with desktop-style functionality.
+
+Features include:
+
+- Ubuntu-inspired aubergine and orange visual design.
+- Native Android HOME launcher integration.
+- Automatic portrait and landscape layouts.
+- Desktop-inspired landscape environment.
 - Main desktop and optional secondary desktop page.
-- Configurable desktop grid with 2–8 columns.
-- Custom desktop text and appearance settings.
-- Support for touch navigation and configurable swipe gestures.
+- Configurable desktop shortcut columns.
+- Unlimited vertically scrollable shortcut rows.
+- Desktop file and website shortcuts.
+- Customizable desktop clock and date.
+- Custom desktop text.
+- Configurable wallpaper and border styles.
+- Configurable swipe navigation.
+- Independent desktop shortcut positioning.
 
-### Independent Portrait and Landscape Settings
+The launcher is designed to provide a familiar desktop-style experience while retaining Android's native application compatibility.
 
-Each orientation has its own display configuration.
+### 2. Independent Portrait and Landscape Settings
 
-**Settings → Display Settings → Portrait Orientation**
+**Settings → Display Settings**
 
-**Settings → Display Settings → Landscape Orientation**
+The launcher provides two separate configuration sections:
 
-Both include:
+- Portrait Orientation
+- Landscape Orientation
 
-- Regular launcher wallpaper management.
-- Independent Dumb Phone Mode wallpaper management.
-- Single-image wallpaper selection.
+Changes made to one orientation do not automatically modify the other.
+
+Both orientations support:
+
+- Regular launcher wallpaper customization.
+- Dumb Phone Mode wallpaper customization.
+- Single-image backgrounds.
 - Multiple-image wallpaper slideshows.
 - Wallpaper removal and restoration of the default background.
-- Wallpaper scaling options:
-  - Crop
-  - Fill
-  - Fit
-  - Zoom
-- Customizable clock and date.
-- Clock visibility, size, color, and font.
+- Wallpaper scaling and
 - Desktop column configuration.
 - Custom text.
 - Border design preferences.
